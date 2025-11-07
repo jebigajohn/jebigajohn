@@ -40,7 +40,7 @@ an upcoming AI-enhanced damage reporting tool developed with **Blazor Server & S
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jebigajohn&show_icons=true&theme=github_dark&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebigajohn&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
