@@ -1,14 +1,11 @@
 <!-- Profile README for GitHub -->
-<h1 align="center">John Staub</h1>
+<h1>John Staub</h1>
 
-<p align="center">
-  <strong>Software Developer</strong><br>
-  Building modern web applications and system-level tools with a focus on performance and simplicity.
-</p>
+<strong>Junior Fullstack Developer in Training</strong>  
+Building modern web applications and system-level tools with a focus on performance, simplicity, and clean architecture.  
 
-<p align="center">
-  <em>Exploring better developer workflows and automation.</em><br>
-</p>
+Currently completing a Fullstack Web Development program and exploring better developer workflows and automation.
+
 
 ---
 
@@ -58,8 +55,4 @@ an upcoming AI-enhanced damage reporting tool developed with **Blazor Server & S
   </a>
 </p>
 
----
 
-<p align="center">
-  <sub>© 2025 John Staub — Software Developer | Focused on performance, reliability & clean architecture.</sub><br>
-</p>
