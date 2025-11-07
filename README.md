@@ -28,7 +28,7 @@ Currently completing a Fullstack Web Development program and exploring better de
 
 ### 🚀 Featured Project
 
-#### 🧱 [ReportCube.de](https://reportcube.de)
+#### 🧱 [reportcube.de](https://reportcube.de)
 **ReportCube** is a modern, responsive **company one-pager** built with  
 **TypeScript, React, and Tailwind CSS**, deployed via **Ionos Deploy Now**.  
 It serves as the public face of the **ReportCube SaaS platform** —  
