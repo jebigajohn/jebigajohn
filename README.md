@@ -4,7 +4,7 @@
 <strong>Junior Fullstack Developer in Training</strong>  
 Building modern web applications and system-level tools with a focus on performance, simplicity, and clean architecture.  
 
-Currently completing a Fullstack Web Development program and exploring better developer workflows and automation.
+I recently completed a Fullstack Web Development program and am exploring improved developer workflows and automation.
 
 
 ---
@@ -28,19 +28,44 @@ Currently completing a Fullstack Web Development program and exploring better de
 
 ### 🚀 Featured Project
 
+
+
+
+
+#### 🔥 [Spark — Premium Car Rental Platform (Bootcamp Project)](https://morent-chi.vercel.app)
+A rebrand and redesign of "Morent" into **Spark**: a premium, mobile‑first car rental prototype built in 2 weeks during the SuperCode bootcamp. Spark combines a polished UI, interactive maps and a data‑driven AI assistant ("Sparky") to streamline vehicle discovery and bookings. Live demo: https://morent-chi.vercel.app
+
+Key features:
+- 🤖 Sparky AI Chatbot — Google Gemini via Vercel AI SDK; rate limiting & local chat history
+- 🗺️ Interactive Maps — MapLibre + OpenStreetMap
+- 📅 Complete Booking System — end‑to‑end flow with validation
+- ❤️ Favorites — save/manage vehicles
+- 🌙 Dark/Light Mode — full theming (dark default)
+- ⭐ Reviews & Ratings — user comments and stars
+- 🔍 Advanced Filters — type, seats, price, location
+- 📱 Mobile First — fully responsive
+- ♿ Accessibility — ARIA, keyboard navigation
+- 🔎 SEO Optimized — meta tags, Open Graph, JSON‑LD
+
+Kurz: Tech Stack
+- Frontend: React 19, TypeScript, TanStack Router/Query, Tailwind CSS, shadcn/ui
+- Backend/Services: Supabase (Postgres + Auth + RLS), Google Gemini (AI), Vercel AI SDK, MapLibre
+- Dev: Vite, ESLint
+
+Projektdaten (Kurz)
+- Zeit: 2 Wochen, Team: 3 Entwickler
+- Komponenten: ~78, Dateien: ~166, LOC: ~23.7k
+
 #### 🧱 [reportcube.de](https://reportcube.de)
 **ReportCube** is a modern, responsive **company one-pager** built with  
 **TypeScript, React, and Tailwind CSS**, deployed via **Ionos Deploy Now**.  
 It serves as the public face of the **ReportCube SaaS platform** —  
 an upcoming AI-enhanced damage reporting tool developed with **Blazor Server & SQL Server**.
 
----
+  
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-jkwx.vercel.app/api?username=jebigajohn&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="200" />
-  <img src="https://github-readme-stats-jkwx.vercel.app/api/top-langs/?username=jebigajohn&count_private=true&include_orgs=true&orgs=reportcube&theme=github_dark&hide_border=true" height="200" />
-</p>
+
+
 
 ---
 
