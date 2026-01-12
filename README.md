@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
 <h1>John Staub</h1>
 
-<strong>Junior Fullstack Developer in Training</strong>  
+<strong>Junior Developer</strong>  
 Building modern web applications and system-level tools with a focus on performance, simplicity, and clean architecture.  
 
 I recently completed a Fullstack Web Development program and am exploring improved developer workflows and automation.
